@@ -7,7 +7,7 @@
 ![image](https://github.com/ENSREG/5g-book-example/assets/42661015/2daaa1dd-b6ce-4749-bffd-020c18e9c116)
 
 
-## 勘誤
+## 勘誤/補充表
 
 感謝以下同學協助勘誤：
 - [劉又聖](https://www.linkedin.com/in/yu-sheng-liu-41a45a24a/)
